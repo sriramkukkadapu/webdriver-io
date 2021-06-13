@@ -15,8 +15,6 @@ module.exports = class Person{
     fullName(){
         return this.firstName + " " +this.lastName;
     }
-
-
 }
 
 // let person =new Person("Sriram", "Kukkadapu");
